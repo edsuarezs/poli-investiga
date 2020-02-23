@@ -1,0 +1,75 @@
+Objetivo Seguridad Informática
+La Seguridad Informática tiene dos objetivos importantes:
+* Proteger la infraestructura tecnológica
+* Proteger la información
+Además, un Sistema de Información se compone de cuatro elementos fundamentales:
+* Información: Los activos que necesitan las compañías para tomar sus decisiones de negocio.
+* Usuarios: Son los que interactúan y tratan directamente con la información para crear los datos que la compañía necesita.
+* Tecnologías de Información: El entorno y los elementos que necesitamos para que el sistema funcione.
+* Infraestructura Física: Las instalaciones físicas dónde están albergados los servidores y sus elementos. Debemos garantizar el acceso restringido y las condiciones climáticas adecuadas.
+¿Qué es un Hacker? Clases de Hacker
+Hacker es un término utilizado para referirse a una persona que posee conocimientos técnicos avanzados y usa este conocimiento para acceder a nuestro sistema de información aprovechando las vulnerabilidades y buscando afectar los tres pilares de la información.
+* Hacker: "Expertos en seguridad informática"
+* Cracker: "Pirata informático"
+Clases de Hacker:
+* Black Hats: Son los conocidos como Crackers. Utilizan el conocimiento para comprometer sistemas o infraestructuras para sacar un beneficio.
+* White Hats: Personas con habilidades de hacking usadas para propósitos defensivos de una organización que nos contrata.
+* Gray Hats: Personas que trabajan en acciones defensivas u ofensivas varias veces, trabajan para ambos bandos.
+* Suicide Hackers: No toman medidas de protección necesarias para no ser descubiertos. Normalmente, pueden ser aprendices o personas que quieren hacer manifestaciones políticas.
+* Script Kiddies: Son hackers nuevos que no son muy expertos con las herramientas de desarrollo y utilizan software malicioso creado por otros.
+* Cyberterrorists: Se encargan de atacar países para generar inestabilidad en un gobierno.
+* Hacktivist: Hackers que piensan que piratear puede provocar cambios sociales, así que, atacan al gobierno u otras organizaciones para mostrar su incomodidad con algunos temas.
+Principios básicos en la Seguridad Informática:
+* Mínimo privilegio: Al usuario se le deben entregar unos permisos para los que están contratados, los necesarios para desarrollar sus funciones dentro de una organización. Ni más ni menos de lo solicitado.
+* Eslabón más débil: La seguridad de un sistema es tan fuerte como su parte más débil. Un atacante primero analiza cuál es el punto más débil del sistema y concentra sus esfuerzos en ese lugar. Los atacantes siempre va a buscar al usuario.
+* Proporcionalidad: Las medidas de seguridad estarán en correspondencia con la importancia de lo que se protege y con el nivel de riesgo existente
+* Dinamismo: La seguridad informática no es un producto, es un proceso. No se termina con la implementación de los medios tecnológicos, se requiere permanentemente monitoreo y mantenimiento.
+* Participación Universal: Es necesario contar con una participación activa de los colaboradores internos para apoyar el sistema de seguridad establecido. Todos lo usuarios deben estar protegidos y participes del proceso de Seguridad Informática
+
+Manejo de incidentes de seguridad ¿Qué es un incidente de seguridad? Administración de incidentes de seguridad
+Un Incidente de seguridad es solo un evento o una serie de eventos inesperados o no deseados que tienen una probabilidad significativa de comprometer las operaciones comerciales y amenazan la seguridad de la información.
+Un Evento de Seguridad es una ocurrencia identificada del estado de un sistema indicando una posible violación de la política de la seguridad de la información o una situación previamente desconocida que puede ser relevante para la seguridad.
+¿Cómo responder ante un incidente de seguridad?
+1. Preparación: Estimamos las necesidades y establecemos procedimientos
+2. Detección y Análisis: Es identificar los signos inusuales que pueden generar dicho incidente.
+3. Identificación: Identificamos qué tipo de incidente fue y ocurrió, qué tan grave puede ser.
+4. Notificación: Reportamos, notificamos y registramos el incidente
+5. Clasificación y priorización: Debemos determinar el tipo de incidente, clasificarlo y así saber qué tan grave es y qué tanto nos puede afectar.
+6. Contención, resolución y recuperación: Detenemos el ataques y evitar que se propague. Resolvemos el incidente. Recuperamos los datos.
+7. Acciones posteriores al cierre: Lecciones aprendidas. Identificamos las causas del incidente, por qué pasó y cómo podemos hacer para qué no vuelva a pasar.
+
+¿Qué es malware? Tipos de malware
+Un Malware es un código o software malicioso que tiene el propósito de afectar, dañar o deshabilitar los sistemas informáticos y otorga un control limitado o total de los sistemas al creador del malware con el propósito de robo o fraude.
+Tipos de Malware
+* Troyanos: Se presentan al usuario como un programa aparentemente legítimo, pero que al ejecutarlo, le brinda al atacante acceso remoto al equipo infectado.
+* Backdoor: Son puertas traseras donde el hacker pueda mantener el acceso al sistema sin que el usuario pueda notarlo.
+* Ransomware: Permite bloquear un dispositivo desde una ubicación remota y encriptar archivos quitando el acceso a la información y datos almacenados.
+* Gusanos: Puede replicarse a sí mismo en los equipos o a través de redes de computadores sin que te des cuenta de que el equipo está infectado.
+* Spyware: Recopila información de un equipo y después transmite esa información a una entidad externa sin el consentimiento del propietario de la información.
+* Botnet: Es una red de equipos que han sido infectados por malware y se ejecutan de manera autónoma y automática.
+* Crypter: Tipo de software que puede encriptar y manipular malware, para que sea más difícil de detectar mediante programas de seguridad.
+* VIrus: Software que tiene por objetivo alterar el funcionamiento normal de cualquier tipo de dispositivo informático.
+Contramedidas para el Malware
+* Instalar un software antivirus
+* Generar una política de antivirus
+* Mantener actualizado el software de antivirus
+* Evitar abrir archivos adjuntos de remitentes desconocidos
+* Mantener con regularidad Backups de la información
+* Programar escaneos regulares para todos los dispositivos
+* No abrir dispositivos o programas sin analizarlos por el antivirus
+* No utilizar software pirata.
+
+Estándares Internacionales de Seguridad: COBIT, ITIL, OWASP, CIS, NIST, ISO27001
+COBIT(Control Objectives for Information and Related technologies): Es un marco de referencias de ISACA. Lo componen cinco dominios distribuidos en una serie de procesos y en unos objetivos de control. Gestionar Seguridad hace parte de uno de los que es Alinear, Planear y Organizar.
+ITIL(Information Techonology Infraestructure Library): Está distribuido en cinco fases(Mejora continua, Estrategia, Diseño, Transición, Operación). Acá también podemos extraer buenas prácticas importantes que nos permitirán organizar nuestro información relacionada a la seguridad.
+OWASP(Open Web Application Security Project): Es un proyecto que revisa los riesgos que existen en las aplicaciones web.
+CIS(Critical Security Controls): Entrega veinte controles básicos que deberían ser cumplidos en una organización cuando hablamos de seguridad según esta metodología.
+NIST(National Institute of Standards and Techonology): Es un framework o un marco de trabajo enfocado a seguridad desarrollado por el gobierno de Estados Unidos. Define cinco fases para implementar. Identificar, Proteger, Detectar, Cómo responder y cómo recuperar.
+ISO27001: Enfocada al tema de la seguridad de la información con dieciocho objetivos de control.
+
+La Ley 1273 de 2009 creó nuevos tipos penales relacionados con delitos informáticos y la protección de la información y de los datos con penas de prisión de hasta 120 meses y multas de hasta 1500 salarios mínimos legales mensuales vigentes[1].
+El 5 de enero de 2009, el Congreso de la República de Colombia promulgó la Ley 1273 "Por medio del cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "De la Protección de la información y de los datos"- y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones".
+Dicha ley tipificó como delitos una serie de conductas relacionadas con el manejo de datos personales, por lo que es de gran importancia que las empresas se blinden jurídicamente para evita incurrir en alguno de estos tipos penales.
+
+
+

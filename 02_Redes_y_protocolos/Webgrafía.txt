@@ -1,0 +1,27 @@
+Existen diferentes tipos de red, estás las distinguimos por su alcancé y capacidad. 
+
+LAN: Red de área local, estás tienen desde 200 metros, hasta un kilometro de cobertura. 
+
+MAN: Llega a conectar las redes LAN en un rango de unos  kilometros.
+
+WAN: Son aquellas que suelen desplegar las empresas proveedoras de Internet para cubrir las necesidades de conexión de redes de una zona muy amplia, como una ciudad o país.
+Ejemplo de estas pueden ser, tigo, claro, etb, etc.
+
+Tipos de redes informáticas:
+
+Intranet
+
+Son aquellas redes internas que en las que el acceso a la información esta estrictamente limitada a personal de la compañía. Este tipo de redes se restringen con el uso de software y se usan en situaciones en las que la información a la que pueden acceder los usuarios es confidencial.
+Extranet
+
+El siguiente nivel de acceso sucede cuando las compañías requieren dar acceso seguro y bajo confidencialidad a usuarios externos incluso a organizaciones diferentes a la que posee la información.
+
+Esto puede pasar por ejemplo cuando una compañía requiere compartir documentos o información con proveedores o contratistas.
+
+
+https://bibliotecavirtualapure.files.wordpress.com/2015/06/redes_de_computadoras-freelibros-org.pdf
+
+*Libro de redes
+
+
+

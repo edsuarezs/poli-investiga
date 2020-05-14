@@ -1,3 +1,3 @@
-<p align="center"><img src="https://previews.dropbox.com/p/thumb/AAxxIwGuwNjM3lWh-L8O7WkdY0tzIadcelPKbtBHYRTKkwYRjiTrS5ZVVnYMkyTwjDxa9SB6wuxgMMNPJTTTZfJXY9Xc0gzG19r5E9Y9Ti-vTdDEIOxROdhzLVTqds3E5pqx-yZVQ0wJdxUGrazn7qm1h9z1XUZD2y15H_YkFghtFZv7bUQiiSq6noAO5LGXyI3IGjh0tGM6x-trEiDRHYQYC05nI-46tgZ7LblYBwZEv5hHC4yKM_RT6l6a85CxX2ai-W5E53iypPc6Xrh9p9_VrX-m1ETrDaKLjyX74zSg9xFKFtHkrrwCy4t_XKyg9gC5Op-GhCjHUtrUB4RkAd4Uw_dI810lacXyT79kZSricQ/p.png?size=1600x1200&size_mode=3" align="middle" width="550"></p> 
+<p align="center"><img src="https://i.imgur.com/mGdF5D1.png" align="middle" width="550"></p> 
 
 Repositorio publico de las nivelaciones realizadas para el grupo de investigación del Politécnico Colombiano Jaime Isaza Cadavid, con su sede principal ubicada en el municipio de Medellín Antioquia.
